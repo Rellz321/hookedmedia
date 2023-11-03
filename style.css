@@ -1,0 +1,89 @@
+body {
+    background: black;
+    color: white;
+    font-family: Gabarito; 
+}
+
+.footer {
+text-align: center;
+display: block;
+margin: 50px 0px 150px 0px;
+}
+
+.selector {
+    text-align: center;
+    display: block;
+    margin: 20px 0px 150px 0px;
+    font-size: 75px;
+}
+
+#logopic {
+    width: 200px;
+    display: block;
+    margin: auto auto;
+   
+}
+
+.aboutusheader {
+    text-align: center;
+    display: block;
+    margin: 20px 0px 0px 0px;
+    font-size: 75px;
+    font-family: inherit;
+}
+
+.aboutustext {
+    text-align: center;
+    display: block;
+    margin: 15px 320px 0px 320px;
+    font-size: 20px;
+    font-family: inherit;
+}
+
+.aboutustext2 {
+    text-align: center;
+    display: block;
+    margin: 15px 320px 0px 320px;
+    font-size: 20px;   
+}
+
+#ourstory {
+    text-align: center;
+    display: block;
+    margin: 0px 0px 70px px;
+    font-size: 75px;
+    font-family: inherit;
+}
+
+#ourapproach {
+    text-align: center;
+    display: block;
+    margin: 20px 0px 0px 0px;
+    font-size: 75px;
+    font-family: inherit;
+}
+
+#values {
+    text-align: center;
+    display: block;
+    margin: 20px 0px 0px 0px;
+    font-size: 75px;
+    font-family: inherit;
+}
+
+a {
+    color: white;
+}
+
+.submit {
+    cursor: pointer;
+    margin-top: 20px;
+    padding: 10px
+    
+    }
+
+
+.form {
+    margin-left: 50px;
+}
+
